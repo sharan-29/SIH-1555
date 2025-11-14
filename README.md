@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:212224230260
-## Name:Sharan Kumar G
+# Date: 14-11-2025
+## Register Number: 212224230260
+## Name: Sharan Kumar G
 ## Problem Title
 SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
 ## Problem Description
@@ -84,5 +84,16 @@ Virtual Tours	Scripts + UI flow	= 10 days
 
 Testing	Functional + usability	= 8 days
 
+## Budget Estimate
+₹ 50,000 – ₹ 75,000 (Approx.)
 
+### Breakdown:
+
+3D model creation – ₹20,000
+
+Cloud hosting & CDN – ₹15,000
+
+APIs & search engine – ₹10,000
+
+Multimedia content creation – ₹15,000
 
