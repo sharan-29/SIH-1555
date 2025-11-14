@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:
-## Register Number:
-## Name:
+## Register Number:212224230260
+## Name:Sharan Kumar G
 ## Problem Title
 SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
 ## Problem Description
@@ -12,15 +12,77 @@ Ministry of Ayush
 
 ## Idea
 
+### 1. 3D Medicinal Plant Viewer
+
+Users can view and interact with realistic 3D models of medicinal plants (rotate, zoom, explore parts).
+
+### 2. Detailed Plant Information
+
+Each plant displays key details—botanical name, uses, cultivation method, habitat, and AYUSH relevance.
+
+### 3. Multimedia Learning
+
+High-quality images, videos, and audio guides to improve user understanding.
+
+### 4. Smart Search & Filters
+
+Search plants by name, medicinal use, region, or type (herb/shrub/tree).
+
+### 5. Guided Virtual Tours
+
+Interactive tours showing plants grouped by themes like immunity, digestion, skincare, etc.
+
+### 6. User Interaction Tools
+
+Users can bookmark plants, add notes, and share information on social media.
+
+### 7. Admin Dashboard
+
+Admins can add/edit plant data, upload media, manage tours, and track user activity.
+
 
 ## Proposed Solution / Architecture Diagram
+
+<img width="2000" height="1200" alt="architecture_diagram" src="https://github.com/user-attachments/assets/2475024e-a2c5-4787-b179-3a6fdd84ca2a" />
 
 
 ## Use Cases
 
+<img width="2000" height="1200" alt="usecase_diagram" src="https://github.com/user-attachments/assets/9d3409ca-b4e8-43cc-99f6-ffaf64c81674" />
+
 
 ## Technology Stack
 
+Frontend: React.js / Next.js
+
+3D Engine: Three.js / React-Three-Fiber
+
+Backend: Node.js (Express / NestJS)
+
+Database: PostgreSQL
+
+Storage: AWS S3 / Firebase Storage
+
+Search: ElasticSearch / Typesense
+
+Authentication: Firebase Auth / OAuth
+
+Tools: Git, Postman, Blender (for models)
+
 
 ## Dependencies
+
+3D Model Creation	Plant modeling & optimization	= 20 days
+
+Database Setup	Plant data entry & structure	= 12 days
+
+Web Frontend	UI/UX + pages + 3D integration	= 15 days
+
+Backend APIs	CRUD, search, media handling	= 12 days
+
+Virtual Tours	Scripts + UI flow	= 10 days
+
+Testing	Functional + usability	= 8 days
+
+
 
